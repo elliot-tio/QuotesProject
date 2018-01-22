@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-Jun-2017, 10:48:58 AM
+    Author     : ET
+*/
+
+body, h1, p {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {font-size: 20px;}
+.bgimg {
+    background-image: url(images/forest.jpg);
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.quoteHolder {
+    padding-bottom: 25px;
+}
